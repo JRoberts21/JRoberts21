@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning assembly programming
 - 🥅 2022 Goals: My goal for 2022 is to get a summer internship
-- 📫 How to reach me: you can reach me via email at jonathanerc2@gmail.com
+- 📫 How to reach me: You can reach me via email at jonathanerc2@gmail.com
 - ⚡ Fun fact: I Like to play guitar and read
 
 ### Connect with me:
