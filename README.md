@@ -20,7 +20,7 @@
 [<img align="left" alt="Nasm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.11.0/icons/visualstudio.svg" style="padding-right:10px;" />]
 
-<br />
+
 
 
 
