@@ -21,7 +21,7 @@
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.11.0/icons/visualstudio.svg" style="padding-right:10px;" />]
 
 <br />
-<br />
+
 
 
 
