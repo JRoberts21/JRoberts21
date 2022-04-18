@@ -3,7 +3,7 @@
 ## I"m a Computer Science Student at IUS
 
 - 🌱 I’m currently learning assembly programming
-- 🥅 2022 Goals: My goal for 2022 is to get a summer internship
+- 🥅 2022 Goals: My goal for 2022 is to learn JavaScript
 - 📫 How to reach me: You can reach me via email at jonathanerc2@gmail.com
 - ⚡ Fun fact: I Like to play guitar and read
 
